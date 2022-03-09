@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... fuck if I know. trying to learn html 
 - 💞️ I’m looking to collaborate on ... html
-- 📫 How to reach me ... my website hold one second please ...
+- 📫 How to reach me ... 16adixon.github.io ...
 
 <!---
 16adixon/16adixon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
