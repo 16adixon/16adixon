@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @16adixon
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... fuck if I know. trying to learn html 
-- 💞️ I’m looking to collaborate on ... html
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... python
 - 📫 How to reach me ... 16adixon.github.io ...
 
 <!---
