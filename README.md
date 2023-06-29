@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @16adixon
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... i would like any help with learning
+- 🌱 I’m currently learning ... FastAPI
+- 💞️ I’m looking to collaborate on ... a project involving Django and microservices
 - 📫 How to reach me ... 16adixon.github.io ...
 
 <!---
